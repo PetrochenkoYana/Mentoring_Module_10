@@ -1,0 +1,8 @@
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\SiteDownloader\SiteDownloader\obj\Debug\SiteDownloader.csprojResolveAssemblyReference.cache
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\SiteDownloader\SiteDownloader\bin\Debug\SiteDownloader.dll
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\SiteDownloader\SiteDownloader\bin\Debug\SiteDownloader.pdb
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\SiteDownloader\SiteDownloader\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\SiteDownloader\SiteDownloader\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\SiteDownloader\SiteDownloader\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\SiteDownloader\SiteDownloader\obj\Debug\SiteDownloader.dll
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\SiteDownloader\SiteDownloader\obj\Debug\SiteDownloader.pdb

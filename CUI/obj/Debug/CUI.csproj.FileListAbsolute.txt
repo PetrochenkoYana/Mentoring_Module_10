@@ -1,0 +1,11 @@
+c:\users\yana_petrachenka\documents\visual studio 2015\Projects\SiteDownloader\CUI\bin\Debug\CUI.exe.config
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\SiteDownloader\CUI\bin\Debug\CUI.exe
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\SiteDownloader\CUI\bin\Debug\CUI.pdb
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\SiteDownloader\CUI\bin\Debug\SiteDownloader.dll
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\SiteDownloader\CUI\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\SiteDownloader\CUI\bin\Debug\SiteDownloader.pdb
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\SiteDownloader\CUI\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\SiteDownloader\CUI\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\SiteDownloader\CUI\obj\Debug\CUI.csprojResolveAssemblyReference.cache
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\SiteDownloader\CUI\obj\Debug\CUI.exe
+C:\Users\Yana_Petrachenka\documents\visual studio 2015\Projects\SiteDownloader\CUI\obj\Debug\CUI.pdb
